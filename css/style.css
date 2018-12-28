@@ -1,0 +1,67 @@
+*{
+	box-sizing: border-box;
+}
+.navbar-inverse{
+	
+	background-color: #FFF;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+	background-color: #65d093;
+}
+	.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:hover{
+		
+		
+		
+	background-color: #65d093;
+}
+	.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{
+    color: #9d9d9d;
+    background-color: #FFF;
+}
+.login{
+		display: block;
+		
+		margin-top: 60px;
+		max-width: 25%;
+		padding: 20px;
+	}
+	.register{
+		display: block;
+		margin: auto;
+		margin-top: 60px;
+		max-width: 75%;
+		padding: 20px;
+	}
+
+body{
+	margin-top: 80px;
+/*	لون الخلفية*/
+	background-color: #d7e4bd;
+}
+.admin_aside{
+	height: 400px;
+/*	لون مربع القائمة الجانبية*/
+	background-color: #10a02e;
+}
+.admin_aside li{
+	margin-top: 5px;
+}
+.profile table{
+	font-size: 18px;
+	width: 600px;
+	max-width: 600px;
+	height: 200px;
+/*	لون خلفية البروفايل*/
+	background-color: #d7e4bd;
+	color: #000;
+	margin: auto;
+}
+.form-login{
+	    margin-top: 250px;
+    margin-left: 533px;
+}
+
+.profile{
+
+}
